@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1
+links:
+- FR001: WkP-InH0x5TuP5aueA1Gzz5PaExmsOIhJYgY4tBWr9w=
+normative: true
+ref: ''
+reviewed: QXVeJLYspLRMPtmgVCA-7xIPy5oBgBSJJa2SI-bFPmg=
+text: |
+  ## Add new Interpreter to Zeppelin
+
+  Open Zeppelin
+  Create new interpreter
+  Save
+  Restart Zeppelin from ADCM
+  Custom interpreter is not removed

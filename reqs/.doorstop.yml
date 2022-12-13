@@ -1,4 +1,8 @@
 settings:
   digits: 3
-  prefix: REQ
+  prefix: FR
   sep: ''
+attributes:
+  defaults:
+    #    text: !include template.md
+itemformat: markdown
