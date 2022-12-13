@@ -1,10 +1,11 @@
+:ж: FR005
 active: true
 derived: true
 header: ''
-level: 7
+level: 8
 links: []
 normative: true
 ref: ''
-reviewed: DlrMNVkORUvQjqklTGOwwJYpc1wlMIkXzRPH6r2khSo=
+reviewed: RVWTmorWZxvlE7ipUNWGUU1DsNvv5Y8F2LLMrq2oeZM=
 text: |
   Zeppelin shall include spark3, flink, phoenix, solr as default interpreters

@@ -8,10 +8,10 @@ normative: true
 ref: ''
 reviewed: QXVeJLYspLRMPtmgVCA-7xIPy5oBgBSJJa2SI-bFPmg=
 text: |
-  ## Add new Interpreter to Zeppelin
+  # Add new Interpreter to Zeppelin
 
-  Open Zeppelin
-  Create new interpreter
-  Save
-  Restart Zeppelin from ADCM
-  Custom interpreter is not removed
+  1.Open Zeppelin
+  1.Create new interpreter
+  1.Save
+  1.Restart Zeppelin from ADCM
+  1.Custom interpreter is not removed

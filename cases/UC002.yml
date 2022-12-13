@@ -1,0 +1,18 @@
+active: true
+derived: false
+header: ''
+level: 2
+links:
+- FR002: null
+normative: true
+ref: ''
+reviewed: okUVPW1C4k_DUYVXJJZCJl8vitxOdU3FnXfA5o1s2a8=
+text: |
+  # Change the existing interpreter
+
+  1. Open Zeppelin
+  1. Select exist interpreter
+  1. Change settings
+  1. Save
+  1. Restart Zeppelin from ADCM
+  1. Custom settings are not changed
